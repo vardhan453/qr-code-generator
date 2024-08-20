@@ -1,0 +1,18 @@
+# Node modules directory
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# Build output (if applicable)
+public/qr_img.png
+
+# Package lock file (optional)
+package-lock.json
+
+# System files
+.DS_Store
+Thumbs.db
